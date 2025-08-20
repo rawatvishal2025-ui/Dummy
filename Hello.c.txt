@@ -1,1 +1,6 @@
-gfghfhfdfr
+#include <stdio.h>      // Standard Input Output header file
+
+int main() {            // Program start point (main function)
+    printf("Hello, World!\n");   // Screen pe message print karo
+    return 0;           // Program successful finish hua
+}
